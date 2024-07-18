@@ -1,9 +1,8 @@
 
 # Tic-Tac-Toe
-I solved problems 1 and 3, I was running out of time so I took some shortcuts for error handling.
+I solved problems 1 and 3, I was running out of time so I took some shortcuts for error handling on my server side route.
 I used FastAPI and MonogoDB and wrote the Dockerfile for the server, the CORS policy is only for localhost:3001
 For simplicity I included everything in the github repo, even the .env file (there is nothing sensitive on it).
-The server is using NoSQL mongodb.
 
 ## Server Setup
 Create a python virtual environment & install requirements.txt
