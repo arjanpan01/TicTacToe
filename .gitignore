@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+/.idea
+
+# Sentry Config File
+.env.sentry-build-plugin
+
+#Ignore virtual environments
+*/venv
+**/venv
+
+# Ignore __pycache__ directories
+*/__pycache__/
+**/__pycache__/
