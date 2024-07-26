@@ -26,7 +26,6 @@ I solved problems 1 and 3: implemented a basic Tic-Tac-Toe game using React and 
 ### Technologies Used:
 - **FastAPI**: For building a robust and scalable backend server.
 - **MongoDB**: For storing game results in a NoSQL database.
-- **Docker**: For containerizing the application to ensure consistent deployment across different environments.
 
 ### Backend Implementation:
 #### API Endpoints:
